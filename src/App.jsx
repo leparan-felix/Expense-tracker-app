@@ -4,7 +4,6 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import ExpenseForm from './ExpenseForm'
 
-
 function App() {
   const [count, setCount] = useState(0)
 

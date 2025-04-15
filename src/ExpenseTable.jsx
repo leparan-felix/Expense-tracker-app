@@ -1,10 +1,10 @@
 import React from 'react';
-// import SearchBar from './SearchBar';
+import SearchBar from './SearchBar';
 function ExpenseTable({ expenses }) {
   return (
     <div>
        
-        {/* <SearchBar /> */}
+        <SearchBar />
     <table>
         
       <thead>
